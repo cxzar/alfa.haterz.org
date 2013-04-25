@@ -223,7 +223,7 @@ include_once JPATH_THEMES.'/'.$this->template.'/logic.php'; // load logic.php
 				</li>
 			</ul>
 		</div>
-	</div><!-- /container mother fucker -->
+	</div><!-- /container -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="/templates/newsguild/js/grid/grid.js"></script>
 	<script type="text/javascript">
